@@ -1,7 +1,4 @@
-# Livro de receitas :woman_cook:
+# Livro de Receitas # 
 
-Olá! Bem vindo ao meu livro de receitas :wave:
-
-- Strogonoff de frango
-- Pavê
-- Outra receita
+Olá, bem vindo ao meu livro de receitas!
+ - Strogonoff de frango
